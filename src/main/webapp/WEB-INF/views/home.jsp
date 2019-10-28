@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>A1 electronics e-commerce site</title>
+  <title>A1 E-Commerce</title>
    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/css/app.css"/>    
 </head>
@@ -10,7 +10,7 @@
 
 <div class="container">
 	<div id="header" class="col-md-12">
-		<h1>A1 electronics e-commerce site</h1>
+		<marquee behavior="alternate"><h1><font color="red">Welcome A1 Electronics E-Commerce WebSite</font></h1></marquee>
 	</div>
 	<div id="categories" class="col-md-3"></div>
 	<div id="products" class="col-md-9"></div>
